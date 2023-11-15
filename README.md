@@ -8,7 +8,6 @@ This is a simple web page that demonstrates a background image scroll effect. Th
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 ##  Getting Started
 To get a copy of this project up and running on your local machine, follow these simple steps:
 1. Clone the repository.
